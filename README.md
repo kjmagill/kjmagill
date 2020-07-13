@@ -9,5 +9,3 @@ I'm KJ, a full stack software engineer who is passionate about open source, dece
 - 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture, and the economy
 - 💻 &nbsp; Languages: JavaScript, Python3
 - 📂 &nbsp; Portfolio: [kjmagill.com](https://kjmagill.com)
-
-PGP: F2E8 6FED 4082 D11A A1B1 B53A 4FE3 6DA5 5DCA 86E2
