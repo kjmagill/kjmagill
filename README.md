@@ -8,5 +8,4 @@ I'm KJ, a full stack software engineer who is passionate about open source, dece
 - 📈 Previously cofounded a fintech startup and led the business development team at an ecommerce startup.
 - 💬 Ask me about: tech, sports, surfing, startup culture, and the economy
 -  ⚡ Languages: JavaScript, Python3
-
-[kjmagill.com](https://kjmagill.com)
+- Portfolio: [kjmagill.com](https://kjmagill.com)
