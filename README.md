@@ -4,8 +4,8 @@
 ## Hi 👋, 
 I'm KJ, a full stack software engineer who is passionate about open source, decentralization and Web 3.0.
 
-- 🏫  Recently completed the Full Stack Web Development curriculum at Lambda School.
-- 📈  Previously cofounded a fintech startup and led the business development team at an ecommerce startup.
-- 💬  Ask me about: tech, sports, surfing, startup culture, and the economy
-- 💻  Languages: JavaScript, Python3
-- 📂  Portfolio: [kjmagill.com](https://kjmagill.com)
+- 🏫 &nbsp; Recently completed the Full Stack Web Development curriculum at Lambda School.
+- 📈 &nbsp; Previously cofounded a fintech startup and led the business development team at an ecommerce startup.
+- 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture, and the economy
+- 💻 &nbsp; Languages: JavaScript, Python3
+- 📂 &nbsp; Portfolio: [kjmagill.com](https://kjmagill.com)
