@@ -9,4 +9,4 @@ I'm KJ, a full stack software engineer who is passionate about open source, dece
 - 💬 Ask me about: tech, sports, surfing, startup culture, and the economy
 -  ⚡ Languages: JavaScript, Python3
 
-kjmagill.com
+[kjmagill.com](https://kjmagill.com)
