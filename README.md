@@ -4,7 +4,7 @@
 ## Hi 👋, 
 I'm KJ, a full stack software engineer who is passionate about open source, decentralization and Web 3.0.
 
-- 🏫 &nbsp; I recently completed the Full Stack Web Development curriculum at Lambda School.
+- 🏫 &nbsp; I'm a graduate of Lambda School's full stack web development track and am endorsed by the school.
 - 📈 &nbsp; I previously cofounded a fintech startup and led the business development team at an ecommerce startup.
 - 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture, and the economy
 - 💻 &nbsp; Languages: JavaScript, Python3
