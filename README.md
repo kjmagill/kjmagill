@@ -7,5 +7,5 @@ I'm KJ, a full stack software engineer with a passion for open source, decentral
 - 🏫 &nbsp; I'm a graduate of Lambda School's full stack web development track and am endorsed by the school.
 - 📈 &nbsp; I previously cofounded a fintech startup and led the business development team at an ecommerce startup.
 - 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture, and the economy
-- 💻 &nbsp; Languages: JavaScript, Python3
+- 💻 &nbsp; Primary languages: JavaScript, Python
 - 📂 &nbsp; Portfolio: [kjmagill.com](https://kjmagill.com)
