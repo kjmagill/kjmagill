@@ -4,8 +4,8 @@
 ## Hi 👋, 
 I'm KJ, a full stack software developer with a passion for open source, fintech and Web 3.0.
 
-- 🏫 &nbsp; I'm endorsed by and have completed the full stack web development program at Lambda School.
-- 📈 &nbsp; I previously cofounded a fintech startup and led the business development team at an ecommerce startup.
-- 💻 &nbsp; Primary languages/frameworks: Python, JavaScript, React, React Native, Node
-- 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture, and the economy
+- 🏫 &nbsp; I've completed the web development program at Lambda School and earned a professional endorsement.
+- 📈 &nbsp; I've previously cofounded a fintech startup and led the business development team at an ecommerce startup.
+- 💻 &nbsp; My primary languages and frameworks are Python, JavaScript, React, React Native &amp; Node.
+- 💬 &nbsp; Ask me about: tech, sports, surfing, startup culture &amp; the economy.
 - 📂 &nbsp; Portfolio: [kjmagill.com](https://kjmagill.com)
