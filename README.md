@@ -5,6 +5,6 @@
 I'm KJ, a software engineer with a passion for fintech, open source and Web 3.0.
 
 - 🏫 &nbsp; I've completed the full stack web development program at Lambda School and earned a professional endorsement.
-- 📈 &nbsp; I've previously cofounded a fintech startup and led the business development team at an ecommerce startup.
-- 💻 &nbsp; My primary languages and frameworks are Python, JavaScript, React, React Native &amp; Node.
+- 📈 &nbsp; I've previously cofounded a fintech startup and led the business development &amp; marketing teams at two ecommerce startups.
+- 💻 &nbsp; My primary languages and frameworks are Python, JavaScript, React, React Native, Node &amp; Web3.js.
 - 💬 &nbsp; Ask me about: tech, basketball, surfing, defi &amp; startup culture.
