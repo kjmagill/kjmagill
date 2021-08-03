@@ -5,6 +5,6 @@
 I'm KJ, a full stack software engineer interested in OSS, cross-platform frameworks and Web 3.0.
 
 - 🏫 &nbsp; I've studied web development at Lambda School, applied mathematics at Coastal Carolina, and business administration at Drexel.
-- 📈 &nbsp; My professional background includes engineering, marketing and business development roles at multiple startups, and formerly owning an IT shop in my hometown.
+- 📈 &nbsp; My professional background includes engineering, marketing and business development roles at multiple startups, and formerly owning an IT shop in my NJ hometown.
 - 💻 &nbsp; My preferred languages and frameworks include JavaScript, Python, Solidity, React, Ionic, Node, Flask and Web3.js.
 - 💬 &nbsp; Ask me about: new/future tech, basketball, surfing, poker, Bitcoin, DAO governance and startup culture.
