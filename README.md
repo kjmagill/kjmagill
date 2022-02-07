@@ -4,8 +4,8 @@
 ## Hi 👋, 
 I'm KJ, a full stack developer and Web3 advocate
 
-- 🏫 &nbsp; I've attended Lambda School for full stack development, Coastal Carolina for applied mathematics, and Drexel for business administration
-- 📈 &nbsp; I've co-founded a couple startups, led marketing and business development teams, and owned a computer repair shop in my hometown
+- 🏫 &nbsp; I've attended Lambda School for web development, Coastal Carolina for applied mathematics, and Drexel for business
+- 📈 &nbsp; I've co-founded a couple startups, led marketing and business development teams, and owned a computer repair shop
 - 💻 &nbsp; I build things with Solidity, Python, TypeScript & JavaScript... plus a variety of frameworks & libraries
 - 💬 &nbsp; I enjoy vulnerability challenges, research & experimentation with new tech, poker, basketball and surfing
 
