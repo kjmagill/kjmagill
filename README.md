@@ -1,4 +1,6 @@
-## Hi 👋 Welcome to my Github profile
+## Hi 👋
+
+## Welcome to my GitHub profile
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
