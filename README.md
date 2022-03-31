@@ -9,9 +9,9 @@
 I'm a software developer and Web3 advocate with experience in a variety of roles and industries
 
 - 🏫 &nbsp; I've attended Lambda School for full stack web development, Coastal Carolina University for applied mathematics, and Drexel University for business administration
-- 📈 &nbsp; I've co-founded a couple startups, led marketing and biz dev teams across various industries, formerly owned &amp; operated an electronics repair shop, and actively contribute to multiple DAOs
+- 📈 &nbsp; I've co-founded a couple startups, led marketing and biz dev teams across multiple industries, formerly owned &amp; operated an electronics repair shop in my hometown, and actively contribute to multiple DAOs
 - 💻 &nbsp; I build things with Solidity, Python, TypeScript, JavaScript and a variety of frameworks &amp; libraries
-- 💬 &nbsp; I enjoy solving vulnerability challenges, researching &amp; experimenting with new technologies &amp; development frameworks, exploring &amp; contributing to the novel Web3 space, and playing poker &amp; basketball
+- 💬 &nbsp; I enjoy solving vulnerability challenges, researching &amp; experimenting with new technologies/frameworks, exploring &amp; contributing to the novel Web3 space, and playing poker &amp; basketball
 
 #### Stats
 
