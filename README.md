@@ -10,8 +10,8 @@ I'm a software developer and Web3 advocate with experience in a variety of roles
 
 - 🏫 &nbsp; Attended Lambda School for full stack web development, Coastal Carolina University for applied mathematics, and Drexel University for business administration &amp; management
 - 📈 &nbsp; Co-founder at Contrax.finance and active contributor in multiple DAOs
-- 💻 &nbsp; Building things with Solidity, Python, TypeScript, JavaScript and a variety of frameworks &amp; libraries
-- 💬 &nbsp; Enjoy solving vulnerability challenges, exploring the Web3 space, and playing poker &amp; basketball
+- 💻 &nbsp; Builds things with Solidity, Python, TypeScript, JavaScript and a variety of frameworks &amp; libraries
+- 💬 &nbsp; Enjoys solving vulnerability challenges, exploring the Web3 space, and playing poker &amp; basketball
 
 #### Stats
 
