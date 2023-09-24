@@ -1,6 +1,6 @@
-## Hi 👋
+#Hi 👋
 
-## I'm KJ. Welcome to my GitHub profile
+#I'm KJ. Welcome to my GitHub profile
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
@@ -13,6 +13,6 @@ I'm a software engineer and Web3 experimenter with a background in hardware and 
 - 💻 &nbsp; Builds things with Solidity, Clarity, Python, TypeScript, JavaScript and a variety of frameworks &amp; libraries
 - 🏀 &nbsp; Enjoys solving vulnerability challenges, exploring the Web3 space, and playing basketball &amp; poker
 
-#### Stats
+####Stats
 
 ![kj github stats](https://github-readme-stats.vercel.app/api?username=kjmagill)
