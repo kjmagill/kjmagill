@@ -1,6 +1,6 @@
-## <span style="font-size: 24px; font-weight: bold;">Hi 👋</span>
+## Hi 👋
 
-## <span style="font-size: 24px; font-weight: bold;">I'm KJ. Welcome to my GitHub profile</span>
+## I'm KJ. Welcome to my GitHub profile
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
