@@ -1,6 +1,6 @@
-## Hi 👋
+# Hi 👋
 
-## I'm KJ. Welcome to my GitHub profile
+# I'm KJ. Welcome to my GitHub profile
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
