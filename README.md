@@ -1,22 +1,6 @@
-<span style="font-size: 24px; font-weight: bold;">
-  <style>
-    @media screen and (max-width: 600px) {
-      span {
-        font-size: 18px;
-      }
-    }
-  </style>
-  Hi 👋
-</span>
+<span style="font-size: 24px; font-weight: bold;">Hi 👋</span>
 
 <span style="font-size: 24px; font-weight: bold;">
-  <style>
-    @media screen and (max-width: 600px) {
-      span {
-        font-size: 18px;
-      }
-    }
-  </style>
   I'm KJ. Welcome to my GitHub profile
 </span>
 
