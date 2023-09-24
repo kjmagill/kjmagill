@@ -1,10 +1,10 @@
-# Hi 👋
+## Hi 👋
 
-# I'm KJ. Welcome to my GitHub profile
+## I'm KJ. Welcome to my GitHub profile
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
-[![Portfolio badge](https://img.shields.io/badge/Portfolio-kjmagill.com-358af2.svg)](https://kjmagill.com) [![Twitter Badge](https://img.shields.io/badge/-@kjmagill-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kjmagill)](https://twitter.com/kjmagill) [![Linkedin Badge](https://img.shields.io/badge/-kjmagill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kjmagill/)](https://www.linkedin.com/in/kjmagill/) [![Protonmail Badge](https://img.shields.io/badge/-kjmagill@protonmail.com-494949?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:kjmagill@protonmail.com)](mailto:kjmagill@protonmail.com)
+[![Portfolio badge](https://img.shields.io/badge/Portfolio-kjmagill.com-358af2.svg)](https://kjmagill.com) [![Twitter Badge](https://img.shields.io/badge/-@kjmagill-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kjmagill)](https://twitter.com/kjmagill) [![Linkedin Badge](https://img.shields.io/badge/-kjmagill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kjmagill/)](https://www.linkedin.com/in/kjmagill/)
 
 I'm a software engineer and Web3 experimenter with a background in hardware and business development
 
