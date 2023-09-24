@@ -1,6 +1,24 @@
-## Hi 👋
+<span style="font-size: 24px; font-weight: bold;">
+  <style>
+    @media screen and (max-width: 600px) {
+      span {
+        font-size: 18px;
+      }
+    }
+  </style>
+  Hi 👋
+</span>
 
-## I'm KJ. Welcome to my GitHub profile
+<span style="font-size: 24px; font-weight: bold;">
+  <style>
+    @media screen and (max-width: 600px) {
+      span {
+        font-size: 18px;
+      }
+    }
+  </style>
+  I'm KJ. Welcome to my GitHub profile
+</span>
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
