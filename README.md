@@ -14,4 +14,4 @@ I'm a software developer with a background in fintech, ecommerce, web developmen
 - 🏀 &nbsp; I enjoy tackling vulnerability challenges; experimenting with agentic orchestration, workflows & loops; and playing basketball & texas hold'em.
 
 #### Stats
-[![GitHub Streak](https://github-readme-streak-stats-one-sage.vercel.app?user=kjmagill&theme=github-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kjmagill&theme=github-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
