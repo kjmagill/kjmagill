@@ -4,7 +4,7 @@
 
 ![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
 
-[![Portfolio badge](https://img.shields.io/badge/Portfolio-kjmagill.com-358af2.svg)](https://kjmagill.com) [![X Badge](https://img.shields.io/badge/-@kjmagill-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/kjmagill)](https://twitter.com/kjmagill) [![Linkedin Badge](https://img.shields.io/badge/-kjmagill-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kjmagill/)](https://www.linkedin.com/in/kjmagill/)
+[![Portfolio badge](https://img.shields.io/badge/Portfolio-kjmagill.com-358af2.svg)](https://kjmagill.com) [![X Badge](https://img.shields.io/badge/-@kjmagill-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white)](https://x.com/kjmagill) [![LinkedIn Badge](https://img.shields.io/badge/-kjmagill-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjmagill/)
 
 I'm a software developer with a background in fintech, ecommerce, web development & business development.
 
