@@ -8,7 +8,7 @@
 
 I'm a software developer with a background in fintech, ecommerce, web development & business development.
 
-- 👔 &nbsp; I'm the founder of Flowstate Labs LLC and capemaywebdesign.com, as well as a contributor in the engineering & UX workstreams of multiple DAOs.
+- 👔 &nbsp; I'm the founder of Flowstate Labs LLC and capemaywebdesign.com, as well as a contributor in the engineering workstreams of several DAOs.
 - 🏫 &nbsp; My education includes Bloomtech ("Lambda School" during my time there) for full stack web development, Coastal Carolina University for applied mathematics, and Drexel University for business administration.
 - 💻 &nbsp; I build things with Python, TypeScript, JavaScript, Solidity, Rust and a variety of other programming languages.
 - 🏀 &nbsp; I enjoy the hunt of a good vulnerability challenge; experimenting with agentic workflows & loops; pondering the nature of reality; and playing basketball & texas hold'em.
