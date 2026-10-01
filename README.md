@@ -28,7 +28,7 @@
   <img src="assets/wave.svg" alt="" width="420" />
 </p>
 
-I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Co-founded [Contrax](https://www.contrax.finance/), a DeFi DAO on Arbitrum.
+I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp), a DeFi DAO on Arbitrum.
 
 The training is three-legged on purpose: full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, business administration at **Drexel**. The languages I reach for most are **Python, TypeScript, JavaScript, Solidity, and Rust**.
 
