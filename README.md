@@ -1,17 +1,80 @@
-## Hi 👋
+<div align="center">
+  <img src="assets/coast.jpg" alt="Night coastline: a lighthouse beam over bioluminescent circuit-surf" width="100%" />
+</div>
 
-## I'm KJ. Welcome to my GitHub profile
+<br />
 
-![Snake animation](https://github.com/badu/badu/blob/master/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="assets/sigil.jpg" alt="Wave and circuit mark" width="92" />
+</div>
 
-[![Portfolio badge](https://img.shields.io/badge/Portfolio-kjmagill.com-358af2.svg)](https://kjmagill.com) [![X Badge](https://img.shields.io/badge/-@kjmagill-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white)](https://x.com/kjmagill) [![LinkedIn Badge](https://img.shields.io/badge/-kjmagill-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjmagill/)
+<h1 align="center">KJ MAGILL</h1>
 
-I'm a software developer with a background in fintech, ecommerce, web development & business development.
+<p align="center">
+  <em>Software from the Jersey shore.</em>
+</p>
 
-- 👔 &nbsp; I'm the founder of Flowstate Labs LLC and capemaywebdesign.com, as well as a contributor in the engineering workstreams of several DAOs.
-- 🏫 &nbsp; My education includes Bloomtech ("Lambda School" during my time there) for full stack web development, Coastal Carolina University for applied mathematics, and Drexel University for business administration.
-- 💻 &nbsp; I build things with Python, TypeScript, JavaScript, Solidity, Rust and a variety of other programming languages.
-- 🏀 &nbsp; I enjoy the hunt of a good vulnerability challenge; experimenting with agentic workflows & loops; pondering the nature of reality; and playing basketball & texas hold'em.
+<p align="center">
+  <a href="https://kjmagill.com">kjmagill.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.capemaywebdesign.com">Cape May Web Design</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/kjmagill">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kjmagill/">LinkedIn</a>
+</p>
 
-#### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kjmagill&theme=github-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<p align="center">
+  <img src="assets/wave.svg" alt="" width="420" />
+</p>
+
+I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Contributor in the engineering workstreams of several DAOs.
+
+The training is three-legged on purpose: full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, business administration at **Drexel**. The languages I reach for most are **Python, TypeScript, JavaScript, Solidity, and Rust**.
+
+After hours I hunt vulnerabilities, run agentic workflows until they loop clean, sit with the nature of reality, then reset on a basketball court or a hold'em table.
+
+<div align="center">
+  <img src="assets/plate.svg" alt="Operator file for KJ Magill: founder, field, stack, schools, DAO signal, after hours" width="100%" />
+</div>
+
+<br />
+
+## Selected work
+
+| | |
+| :--- | :--- |
+| [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | DeFi tools and auto-compounding vaults on Arbitrum |
+| [Contrax contracts](https://github.com/Contrax-co/contrax-smart-contracts) | Open-source vault strategies in Solidity |
+| [Contrax website](https://github.com/Contrax-co/website) | Product marketing site and team page |
+| [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android field ops for a US nonprofit |
+| [Cape May Web Design](https://github.com/kjmagill/Cape-May-Web-Design) | Studio site for the coastal practice |
+| [Golden Paver](https://github.com/kjmagill/golden-paver) | Restoration business on the public web |
+
+<p align="center">
+  <a href="https://kjmagill.com">More on the portfolio →</a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="assets/wave.svg" alt="" width="420" />
+</div>
+
+<p align="center"><sub>PULSE</sub></p>
+
+<div align="center">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c4a574&icon_color=2dd4bf&text_color=d5e1e6&bg_color=071018&ring_color=2dd4bf" alt="GitHub stats" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmagill&layout=compact&hide_border=true&title_color=c4a574&text_color=d5e1e6&bg_color=071018" alt="Top languages" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kjmagill&theme=dark&background=071018&ring=2dd4bf&fire=c4a574&currStreakNum=2dd4bf&sideNums=d5e1e6&currStreakLabel=c4a574&sideLabels=8aa0ab&dates=8aa0ab&hide_border=true" alt="GitHub streak" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+    <img src="github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</div>

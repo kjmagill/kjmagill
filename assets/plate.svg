@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" role="img" aria-label="KJ Magill operator plate">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="100%" stop-color="#0d1f2c"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8d6b3e"/>
+      <stop offset="50%" stop-color="#e2c48c"/>
+      <stop offset="100%" stop-color="#8d6b3e"/>
+    </linearGradient>
+    <style>
+      .bg { fill: url(#bg); }
+      .frame { fill: none; stroke: url(#copper); stroke-opacity: 0.42; }
+      .kicker { fill: #7dd3c7; font: 600 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 3.2px; }
+      .name { fill: #f4efe6; font: 700 28px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 7px; }
+      .tag { fill: #9bb8c3; font: 500 11px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 4.5px; }
+      .label { fill: #c4a574; font: 600 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 2.4px; }
+      .value { fill: #e7eef2; font: 400 13.5px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .rule { stroke: #1d3948; stroke-width: 1; }
+      .loc { fill: #7a929c; font: 500 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 2px; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #f4efe4; }
+        .name { fill: #102029; }
+        .tag { fill: #4d6570; }
+        .value { fill: #1a2a33; }
+        .rule { stroke: #d9cbb3; }
+        .loc { fill: #6a7f88; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="332" rx="18"/>
+  <rect class="frame" x="1.2" y="1.2" width="897.6" height="329.6" rx="16.8"/>
+
+  <text class="kicker" x="36" y="38">OPERATOR FILE</text>
+  <text class="name" x="36" y="78">KJ MAGILL</text>
+  <text class="tag" x="36" y="102">SOFTWARE  ·  CAPITAL  ·  COAST</text>
+  <text class="loc" x="864" y="38" text-anchor="end">NJ, USA</text>
+
+  <line class="rule" x1="36" y1="122" x2="864" y2="122"/>
+
+  <text class="label" x="36" y="154">FOUNDER</text>
+  <text class="value" x="188" y="154">Flowstate Labs LLC  ·  Cape May Web Design</text>
+
+  <text class="label" x="36" y="186">FIELD</text>
+  <text class="value" x="188" y="186">Fintech  ·  Ecommerce  ·  Web  ·  Business development</text>
+
+  <text class="label" x="36" y="218">STACK</text>
+  <text class="value" x="188" y="218">Python  ·  TypeScript  ·  JavaScript  ·  Solidity  ·  Rust</text>
+
+  <text class="label" x="36" y="250">SCHOOLS</text>
+  <text class="value" x="188" y="250">Bloomtech (Lambda School)  ·  Coastal Carolina  ·  Drexel</text>
+
+  <text class="label" x="36" y="282">SIGNAL</text>
+  <text class="value" x="188" y="282">Engineering workstreams across several DAOs</text>
+
+  <text class="label" x="36" y="314">AFTER HOURS</text>
+  <text class="value" x="188" y="314">Vulnerability hunts  ·  Agentic loops  ·  Reality  ·  Basketball  ·  Hold'em</text>
+</svg>
