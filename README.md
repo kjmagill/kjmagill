@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/coast.jpg" alt="Night aerial of Cape May Point Lighthouse over a wide beach and ponds" width="100%" />
+  <img src="assets/coast.webp" alt="Night aerial of Cape May Point Lighthouse over a wide beach and ponds" width="100%" />
 </div>
 
 <br />
