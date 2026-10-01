@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" role="img" aria-label="KJ Magill operator plate">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" role="img" aria-label="KJ Magill operator plate, including Contrax on Arbitrum">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071018"/>
@@ -53,7 +53,7 @@
   <text class="value" x="188" y="250">Bloomtech (Lambda School)  ·  Coastal Carolina  ·  Drexel</text>
 
   <text class="label" x="36" y="282">SIGNAL</text>
-  <text class="value" x="188" y="282">Engineering workstreams across several DAOs</text>
+  <text class="value" x="188" y="282">Co-founded Contrax, a DeFi DAO on Arbitrum</text>
 
   <text class="label" x="36" y="314">AFTER HOURS</text>
   <text class="value" x="188" y="314">Vulnerability hunts  ·  Agentic loops  ·  Automations  ·  Basketball  ·  Hold'em</text>

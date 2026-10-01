@@ -28,14 +28,14 @@
   <img src="assets/wave.svg" alt="" width="420" />
 </p>
 
-I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Contributor in the engineering workstreams of several DAOs.
+I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Co-founded [Contrax](https://www.contrax.finance/), a DeFi DAO on Arbitrum.
 
 The training is three-legged on purpose: full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, business administration at **Drexel**. The languages I reach for most are **Python, TypeScript, JavaScript, Solidity, and Rust**.
 
 After hours I hunt vulnerabilities, run agentic workflows until they loop clean, sit with the nature of reality, then reset on a basketball court or a hold'em table.
 
 <div align="center">
-  <img src="assets/plate.svg" alt="Operator file for KJ Magill: founder, field, stack, schools, DAO signal, after hours" width="100%" />
+  <img src="assets/plate.svg" alt="Operator file for KJ Magill: founder, field, stack, schools, Contrax, after hours" width="100%" />
 </div>
 
 <br />
