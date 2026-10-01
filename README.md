@@ -11,7 +11,7 @@
 <h1 align="center">KJ MAGILL</h1>
 
 <p align="center">
-  <em>Software from the Jersey shore.</em>
+  <em>Full-stack developer and founder.</em>
 </p>
 
 <p align="center">
@@ -28,14 +28,14 @@
   <img src="assets/wave.svg" alt="" width="420" />
 </p>
 
-I build at the seam of **fintech, ecommerce, the web, and business development** — then put it in the world. Founder of **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com). Co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp), a DeFi DAO on Arbitrum.
+I'm a software developer with a background in fintech, ecommerce, and business development. I founded **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com), and co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp), a DeFi protocol on Arbitrum.
 
-The training is three-legged on purpose: full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, business administration at **Drexel**. The languages I reach for most are **Python, TypeScript, JavaScript, Solidity, and Rust**.
+I studied full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, and business administration at **Drexel**. I build with **Python, TypeScript, JavaScript, Solidity, and Rust**.
 
-After hours I hunt vulnerabilities, run agentic workflows until they loop clean, sit with the nature of reality, then reset on a basketball court or a hold'em table.
+After hours I hunt vulnerabilities, run agentic workflows, build automations, and play basketball and hold'em.
 
 <div align="center">
-  <img src="assets/plate.svg" alt="Operator file for KJ Magill: founder, field, stack, schools, Contrax, after hours" width="100%" />
+  <img src="assets/plate.svg" alt="Profile plate for KJ Magill" width="100%" />
 </div>
 
 <br />
@@ -44,12 +44,12 @@ After hours I hunt vulnerabilities, run agentic workflows until they loop clean,
 
 | | |
 | :--- | :--- |
-| [Compbook](https://usecompbook.com) | Free-to-use, read-only data visualization tool |
-| [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | DeFi tools and auto-compounding vaults on Arbitrum |
-| [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android field ops for a US nonprofit |
-| [CanToCurb](https://www.cantocurb.com) | Official site for CanToCurb.com |
-| [Back Bay Rentals](https://backbaybuggies.com) | Rental and scheduling site for Back Bay golf carts |
-| [Golden Paver](https://github.com/kjmagill/golden-paver) | Restoration business on the public web |
+| [Compbook](https://usecompbook.com) | Sports-card comps and market estimates |
+| [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | Auto-compounding vaults and DeFi tools on Arbitrum |
+| [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android app for a U.S. nonprofit |
+| [CanToCurb](https://www.cantocurb.com) | Trash and recycling valet for Cape May County |
+| [Back Bay Rentals](https://backbaybuggies.com) | Golf cart rentals and scheduling |
+| [Golden Paver](https://github.com/kjmagill/golden-paver) | Website for Golden Paver Restorations |
 
 <p align="center">
   <a href="https://kjmagill.com">More on the portfolio →</a>
@@ -61,7 +61,7 @@ After hours I hunt vulnerabilities, run agentic workflows until they loop clean,
   <img src="assets/wave.svg" alt="" width="420" />
 </div>
 
-<p align="center"><sub>PULSE</sub></p>
+<p align="center"><sub>STATS</sub></p>
 
 <div align="center">
   <img height="168" src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c4a574&icon_color=2dd4bf&text_color=d5e1e6&bg_color=071018&ring_color=2dd4bf" alt="GitHub stats" />

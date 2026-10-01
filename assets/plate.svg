@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" role="img" aria-label="KJ Magill operator plate, including Contrax on Arbitrum">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" role="img" aria-label="KJ Magill profile plate">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#071018"/>
@@ -33,9 +33,9 @@
   <rect class="bg" width="900" height="332" rx="18"/>
   <rect class="frame" x="1.2" y="1.2" width="897.6" height="329.6" rx="16.8"/>
 
-  <text class="kicker" x="36" y="38">OPERATOR FILE</text>
+  <text class="kicker" x="36" y="38">PROFILE</text>
   <text class="name" x="36" y="78">KJ MAGILL</text>
-  <text class="tag" x="36" y="102">SOFTWARE  ·  CAPITAL  ·  COAST</text>
+  <text class="tag" x="36" y="102">SOFTWARE  ·  FOUNDER  ·  NEW JERSEY</text>
   <text class="loc" x="864" y="38" text-anchor="end">NJ, USA</text>
 
   <line class="rule" x1="36" y1="122" x2="864" y2="122"/>
@@ -50,10 +50,10 @@
   <text class="value" x="188" y="218">Python  ·  TypeScript  ·  JavaScript  ·  Solidity  ·  Rust</text>
 
   <text class="label" x="36" y="250">SCHOOLS</text>
-  <text class="value" x="188" y="250">Bloomtech (Lambda School)  ·  Coastal Carolina  ·  Drexel</text>
+  <text class="value" x="188" y="250">Bloomtech (Lambda School)  ·  Coastal Carolina (math)  ·  Drexel (business)</text>
 
-  <text class="label" x="36" y="282">SIGNAL</text>
-  <text class="value" x="188" y="282">Co-founded Contrax, a DeFi DAO on Arbitrum</text>
+  <text class="label" x="36" y="282">DEFI</text>
+  <text class="value" x="188" y="282">Co-founded Contrax on Arbitrum</text>
 
   <text class="label" x="36" y="314">AFTER HOURS</text>
   <text class="value" x="188" y="314">Vulnerability hunts  ·  Agentic loops  ·  Automations  ·  Basketball  ·  Hold'em</text>
