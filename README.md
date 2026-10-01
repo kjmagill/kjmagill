@@ -44,11 +44,11 @@ After hours I hunt vulnerabilities, run agentic workflows until they loop clean,
 
 | | |
 | :--- | :--- |
-| [Compbook](https://github.com/kjmagill/compbook) | Free-to-use, read-only data visualization tool |
+| [Compbook](https://usecompbook.com) | Free-to-use, read-only data visualization tool |
 | [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | DeFi tools and auto-compounding vaults on Arbitrum |
 | [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android field ops for a US nonprofit |
-| [CanToCurb](https://github.com/kjmagill/cantocurb) | Official site for CanToCurb.com |
-| [Back Bay Rentals](https://github.com/kjmagill/back-bay-rentals) | Rental and scheduling site for Back Bay golf carts |
+| [CanToCurb](https://www.cantocurb.com) | Official site for CanToCurb.com |
+| [Back Bay Rentals](https://backbaybuggies.com) | Rental and scheduling site for Back Bay golf carts |
 | [Golden Paver](https://github.com/kjmagill/golden-paver) | Restoration business on the public web |
 
 <p align="center">
