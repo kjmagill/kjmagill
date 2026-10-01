@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/coast.jpg" alt="Night coastline: a lighthouse beam over bioluminescent circuit-surf" width="100%" />
+  <img src="assets/coast.jpg" alt="Night aerial of Cape May Point Lighthouse over a wide beach and ponds" width="100%" />
 </div>
 
 <br />
@@ -71,10 +71,3 @@ After hours I hunt vulnerabilities, run agentic workflows until they loop clean,
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kjmagill&theme=dark&background=071018&ring=2dd4bf&fire=c4a574&currStreakNum=2dd4bf&sideNums=d5e1e6&currStreakLabel=c4a574&sideLabels=8aa0ab&dates=8aa0ab&hide_border=true" alt="GitHub streak" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-    <img src="github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</div>
