@@ -44,12 +44,12 @@ After hours I hunt vulnerabilities, run agentic workflows, build automations, an
 
 | | |
 | :--- | :--- |
-| [Compbook](https://usecompbook.com) | Sports-card comps and market estimates |
+| [Compbook](https://usecompbook.com) | Digital sports-card comps and market estimates |
 | [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | Auto-compounding vaults and DeFi tools on Arbitrum |
 | [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android app for a U.S. nonprofit |
 | [CanToCurb](https://www.cantocurb.com) | Trash and recycling valet for Cape May County |
-| [Back Bay Rentals](https://backbaybuggies.com) | Golf cart rentals and scheduling |
-| [Golden Paver](https://github.com/kjmagill/golden-paver) | Website for Golden Paver Restorations |
+| [Back Bay Rentals](https://backbaybuggies.com) | LSV cart rentals and scheduling |
+| [Golden Paver](https://github.com/kjmagill/golden-paver) | Local service-business marketing website & lead capture |
 
 <p align="center">
   <a href="https://kjmagill.com">More on the portfolio →</a>
