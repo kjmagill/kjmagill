@@ -8,7 +8,7 @@
 
 <br />
 
-I’m KJ, a full-stack developer and founder based in New Jersey. I build thoughtful software for real-world problems—from a business’s first website to products that work in the field and on-chain.
+I’m KJ, a full-stack developer and founder based in New Jersey. I build thoughtful software for real-world problems, from a business’s first website to products that work in the field and on-chain.
 
 I founded **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com), and co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp). My work spans fintech, ecommerce, mobile apps, and the businesses in my own community.
 
