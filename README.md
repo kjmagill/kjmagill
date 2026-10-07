@@ -20,12 +20,12 @@ I founded **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdes
 
 | Project | What it does |
 | :--- | :--- |
-| **[Compbook ↗](https://usecompbook.com)** | Sports-card comps and market estimates. |
+| **[Compbook ↗](https://usecompbook.com)** | Market analysis tools for NBA digital trading cards. |
 | **[Contrax ↗](https://github.com/Contrax-co/contrax-dapp)** | Auto-compounding vaults and DeFi tools on Ethereum and Arbitrum. |
 | **[Care For Life ↗](https://github.com/kjmagill/care-for-life-fe)** | Offline-first Android app for nonprofit field operations in Africa. |
 | **[CanToCurb ↗](https://www.cantocurb.com)** | Online scheduling for a local trash and recycling valet service. |
-| **[Back Bay Rentals ↗](https://backbaybuggies.com)** | Online booking for street-legal golf cart rentals. |
-| **[Golden Paver ↗](https://github.com/kjmagill/golden-paver)** | A service-business website built to turn visitors into leads. |
+| **[Back Bay Rentals ↗](https://backbaybuggies.com)** | Online booking for street-legal golf cart rentals in South Jersey. |
+| **[Golden Paver ↗](https://github.com/kjmagill/golden-paver)** | A service-business website designed to turn visitors into leads. |
 
 [Explore more work on my website →](https://kjmagill.com/#work)
 
