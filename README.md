@@ -1,73 +1,71 @@
-<div align="center">
-  <img src="assets/coast.webp" alt="Night aerial of Cape May Point Lighthouse over a wide beach and ponds" width="100%" />
-</div>
+<a href="https://kjmagill.com">
+  <img src="assets/profile-header.png" alt="KJ Magill — Developer & founder. Custom software. Built to work." width="100%" />
+</a>
 
 <br />
 
-<div align="center">
-  <img src="assets/sigil.jpg" alt="Wave and circuit mark" width="92" />
-</div>
-
-<h1 align="center">KJ MAGILL</h1>
-
-<p align="center">
-  <em>Full-stack developer and founder.</em>
-</p>
-
-<p align="center">
-  <a href="https://kjmagill.com">kjmagill.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.capemaywebdesign.com">Cape May Web Design</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/kjmagill">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kjmagill/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="assets/wave.svg" alt="" width="420" />
-</p>
-
-I'm a software developer with a background in fintech, ecommerce, and business development. I founded **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com), and co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp), a DeFi protocol on Arbitrum.
-
-I studied full-stack web at **Bloomtech** (Lambda School), applied mathematics at **Coastal Carolina**, and business administration at **Drexel**. I build with **Python, TypeScript, JavaScript, Solidity, and Rust**.
-
-After hours I hunt vulnerabilities, run agentic workflows, build automations, and play basketball and hold'em.
-
-<div align="center">
-  <img src="assets/plate.svg" alt="Profile plate for KJ Magill" width="100%" />
-</div>
+[Portfolio ↗](https://kjmagill.com) &nbsp; / &nbsp; [Let’s talk ↗](https://kjmagill.com/contact) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/kjmagill/) &nbsp; / &nbsp; [X ↗](https://x.com/kjmagill)
 
 <br />
 
-## Selected work
+I’m KJ, a full-stack developer and founder based in New Jersey. I build thoughtful software for real-world problems—from a business’s first website to products that work in the field and on-chain.
 
-| | |
+I founded **Flowstate Labs** and [Cape May Web Design](https://www.capemaywebdesign.com), and co-founded [Contrax](https://github.com/Contrax-co/contrax-dapp). My work spans fintech, ecommerce, mobile apps, and the businesses in my own community.
+
+<br />
+
+<sub>01 / SELECTED WORK</sub>
+
+## Ideas into outcomes.
+
+| Project | What it does |
 | :--- | :--- |
-| [Compbook](https://usecompbook.com) | Digital sports-card comps and market estimates |
-| [Contrax dApp](https://github.com/Contrax-co/contrax-dapp) | Auto-compounding vaults and DeFi tools on Arbitrum |
-| [Care For Life](https://github.com/kjmagill/care-for-life-fe) | Offline-first Android app for nonprofit field operations in Africa |
-| [CanToCurb](https://www.cantocurb.com) | Redesign and online scheduling for a local trash & recycling valet service |
-| [Back Bay Rentals](https://backbaybuggies.com) | Online booking and scheduling for local LSV rentals |
-| [Golden Paver](https://github.com/kjmagill/golden-paver) | Local service-business marketing website & lead capture |
+| **[Compbook ↗](https://usecompbook.com)** | Sports-card comps and market estimates. |
+| **[Contrax ↗](https://github.com/Contrax-co/contrax-dapp)** | Auto-compounding vaults and DeFi tools on Ethereum and Arbitrum. |
+| **[Care For Life ↗](https://github.com/kjmagill/care-for-life-fe)** | Offline-first Android app for nonprofit field operations in Africa. |
+| **[CanToCurb ↗](https://www.cantocurb.com)** | Online scheduling for a local trash and recycling valet service. |
+| **[Back Bay Rentals ↗](https://backbaybuggies.com)** | Online booking for street-legal golf cart rentals. |
+| **[Golden Paver ↗](https://github.com/kjmagill/golden-paver)** | A service-business website built to turn visitors into leads. |
 
-<p align="center">
-  <a href="https://kjmagill.com">More on the portfolio →</a>
-</p>
+[Explore more work on my website →](https://kjmagill.com/#work)
 
 <br />
 
-<div align="center">
-  <img src="assets/wave.svg" alt="" width="420" />
-</div>
+<sub>02 / APPROACH & TOOLKIT</sub>
 
-<p align="center"><sub>STATS</sub></p>
+## A developer’s craft. A founder’s mindset.
 
-<div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c4a574&icon_color=2dd4bf&text_color=d5e1e6&bg_color=071018&ring_color=2dd4bf" alt="GitHub stats" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmagill&layout=compact&hide_border=true&title_color=c4a574&text_color=d5e1e6&bg_color=071018" alt="Top languages" />
-</div>
+I care about maintainable code, intuitive design, and understanding the business behind the build. I enjoy taking an idea all the way to something people can use.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kjmagill&theme=dark&background=071018&ring=2dd4bf&fire=c4a574&currStreakNum=2dd4bf&sideNums=d5e1e6&currStreakLabel=c4a574&sideLabels=8aa0ab&dates=8aa0ab&hide_border=true" alt="GitHub streak" />
+**Interfaces** &nbsp; React · Next.js · React Native · TypeScript<br />
+**Under the hood** &nbsp; Node.js · Python · SQL · Solidity · Rust<br />
+**Across the build** &nbsp; Product thinking · Technical leadership · Collaboration
+
+Away from the keyboard: the gym, a basketball court, or somewhere I haven’t been before.
+
+<br />
+
+<!-- Optional stats section: remove from this comment through END STATS to hide all widgets. -->
+<sub>03 / ON GITHUB</sub>
+
+## Always building. Always learning.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=false&border_color=303030&border_radius=0&include_all_commits=true&title_color=f5f5f3&icon_color=a9a9a3&text_color=a9a9a3&bg_color=0a0a0a&ring_color=f5f5f3" alt="KJ Magill’s GitHub contribution statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmagill&layout=compact&hide_border=false&border_color=303030&border_radius=0&title_color=f5f5f3&text_color=a9a9a3&bg_color=0a0a0a&hide_progress=true" alt="Most-used languages across public repositories" height="165" />
 </p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=kjmagill&hide_border=false&border=303030&border_radius=0&background=0A0A0A&stroke=303030&ring=F5F5F3&fire=F5F5F3&currStreakNum=F5F5F3&sideNums=F5F5F3&currStreakLabel=A9A9A3&sideLabels=A9A9A3&dates=A9A9A3" alt="KJ Magill’s GitHub contribution streak" width="495" />
+</p>
+<!-- END STATS -->
+
+<br />
+
+---
+
+### Let’s build something good.
+
+A project, a role, or a conversation. I’m open to the right next thing.
+
+[Get in touch ↗](https://kjmagill.com/contact)
