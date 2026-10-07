@@ -1,5 +1,5 @@
 <a href="https://kjmagill.com">
-  <img src="assets/profile-header.png" alt="KJ Magill — Developer & founder. Custom software. Built to work." width="100%" />
+  <img src="assets/profile-header.webp" alt="KJ Magill — Developer & founder. Custom software. Built to work." width="100%" />
 </a>
 
 <br />
