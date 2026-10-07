@@ -51,8 +51,11 @@ Away from the keyboard: the gym, a basketball court, or somewhere I haven’t be
 ## Always building. Always learning.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=false&border_color=303030&border_radius=0&include_all_commits=true&title_color=f5f5f3&icon_color=a9a9a3&text_color=a9a9a3&bg_color=0a0a0a&ring_color=f5f5f3" alt="KJ Magill’s GitHub contribution statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmagill&layout=compact&hide_border=false&border_color=303030&border_radius=0&title_color=f5f5f3&text_color=a9a9a3&bg_color=0a0a0a&hide_progress=true" alt="Most-used languages across public repositories" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kjmagill&show_icons=true&hide_border=false&border_color=303030&border_radius=0&include_all_commits=true&title_color=f5f5f3&icon_color=a9a9a3&text_color=a9a9a3&bg_color=0a0a0a&ring_color=f5f5f3" alt="KJ Magill’s GitHub contribution statistics" width="495" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjmagill&layout=compact&hide_border=false&border_color=303030&border_radius=0&title_color=f5f5f3&text_color=a9a9a3&bg_color=0a0a0a&hide_progress=true&card_width=495" alt="Most-used languages across public repositories" width="495" />
 </p>
 
 <p>
